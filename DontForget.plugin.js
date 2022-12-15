@@ -1,10 +1,10 @@
 /**
- * @name KeepTrack
+ * @name DontForget
  * @version 1
- * @description Link emojis if you don't have nitro! Type them out or use the emoji picker!
+ * @description Clipboard for discord
  * @author JediMinecraft1
- * @source https://github.com/An00nymushun/DiscordFreeEmojis
- * @updateUrl https://raw.githubusercontent.com/An00nymushun/DiscordFreeEmojis/main/DiscordFreeEmojis.plugin.js
+ * @source https://github.com/Jedi-Coder1/DontForget
+ * @updateUrl https://raw.githubusercontent.com/Jedi-Coder1/DontForget/main/KeepTrack.plugin.js
  */
 
 /*@cc_on
@@ -27,7 +27,7 @@
     WScript.Quit();
 @else @*/
 
-module.exports = class KeepTrack {
+module.exports = class DontForget {
     stop(){}
     start() {
       
